@@ -8,23 +8,17 @@
 
 FIX THIS UP
 
-<details><summary>Resources</summary>
-
-
-[template](/tut-template/resources/template)
-
+<details>
+<summary>Resources</summary>
+<a href="/tut-template/resources/template">template</a>
 </details>
 
-<details><summary>Slides</summary>
-
-
-[week1](/tut-template/week1)
-
+<details>
+<summary>Slides</summary>
+<a href="/tut-template/week1">week 1</a>
 </details>
 
-<details><summary>Extended Slides</summary>
-
-
-[week1](/tut-template/week1-extended)
-
+<details>
+<summary>Extended Slides</summary>
+<a href="/tut-template/week1-extended">week 1</a>
 </details>
