@@ -31,6 +31,4 @@ jobs:
           publish_dir: ./slides/public
 
       - name: Clean
-        uses: JesseTG/rm@v1.0.2
-        with:
-          path: /.nojekyll
+        run: rm -f .nojekyll
