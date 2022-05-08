@@ -1,11 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Week1"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-## {{ replace .Name "-" " " | title }}
+## Week1
 
 ---
 
