@@ -4,11 +4,11 @@ on:
   push:
     branches:
       - main
+      - gh-pages
     pull_request:
 
 jobs:
   deploy:
-    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -30,10 +30,3 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./slides/public
-
-  clean:
-    if: github.ref == 'refs/heads/gh-pages'
-    runs-on: ubuntu-20.04
-    steps:
-    - name: Clean
-      run: rm -f .nojekyll

@@ -1,0 +1,14 @@
+name: clean nojekyll
+
+on:
+  push:
+    branches:
+      - gh-pages
+    pull_request:
+
+jobs:
+  clean:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Clean
+        run: rm -f .nojekyll
