@@ -8,7 +8,6 @@ on:
 
 jobs:
   deploy:
-    if: github.repository != 'lachlan-waugh/tut-template'
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
