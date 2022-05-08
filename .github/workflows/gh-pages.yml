@@ -29,3 +29,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./slides/public
+
+      - name: Clean
+        uses: JesseTG/rm@v1.0.2
+        with:
+          path: /.nojekyll
