@@ -1,5 +1,3 @@
-# 6[84]43
+# TODO
 
-Welcome!
-
-[Week1](/week01)
+FIX THIS UP
