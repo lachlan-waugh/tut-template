@@ -4,14 +4,13 @@ layout: "bundle"
 outputs: ["Reveal"]
 ---
 
-## We'll get started at ??:05
-People be late
+## We'll get started at 12:05
 
 ---
 
 {{< slide class="center" >}}
 # {{ replace .Name "-" " " | title }}
-### ????A COMP644? 
+### T12A COMP1234 
 
 ---
 
