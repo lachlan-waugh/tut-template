@@ -10,7 +10,7 @@ outputs: ["Reveal"]
 
 {{< slide class="center" >}}
 # {{ replace .Name "-" " " | title }}
-### ????A COMP644? 
+### T12A COMP1234 
 
 ---
 
