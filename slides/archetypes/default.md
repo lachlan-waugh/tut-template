@@ -5,7 +5,6 @@ outputs: ["Reveal"]
 ---
 
 ## We'll get started at ??:05
-People be late
 
 ---
 
@@ -24,3 +23,13 @@ We expect a high standard of professionalism from you at all times while you are
 [sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)
 
 ---
+
+## Lecture review
+{{% section %}}
+
+{{% /section %}}
+
+---
+
+## Thank you
+We're done!
