@@ -4,7 +4,7 @@ layout: "bundle"
 outputs: ["Reveal"]
 ---
 
-## We'll get started at 12:05
+## We'll get started at ??:05
 
 ---
 
@@ -23,3 +23,13 @@ We expect a high standard of professionalism from you at all times while you are
 [sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)
 
 ---
+
+## Lecture review
+{{% section %}}
+
+{{% /section %}}
+
+---
+
+## Thank you
+We're done!
