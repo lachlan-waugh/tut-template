@@ -1,10 +1,10 @@
 ## slides
-* [week-01](/1234/week01)
+* [week-01](week01)
 
 &nbsp;
 
 ## resources
-* [tooling](/1234/resources/tooling)
+* [tooling](resources/tooling)
 
 &nbsp;
 
